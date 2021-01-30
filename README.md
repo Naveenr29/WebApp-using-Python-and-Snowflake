@@ -12,8 +12,10 @@ Step 1:
 ●Create a New Python Project in PyCharm and create the Main “py” File
 ●Set Up a Configuration for Running/Testing the Project
 ●Run Your First Project Test
+
 Step 2:
 ●Install Snowflake Python Libraries
+
 Step 3: 
 ●Check Your Project to Make Sure It Still Runs
 ●Add A Snowflake Database Connection to Your Website
@@ -31,9 +33,11 @@ Step 4:
 ●Use Pandas to Pull Data from Your Colors Table in Snowflake
 ●Begin Using HTML for Your Website Homepage
 ●Convert the Snowflake Colors Data to HTML
+
 Step 5:
 ●Set Up Flask Webpage Template for Homepage
 ●Pass the Data Frame HTML to the Homepage Template 
+
 Step 6:
 ●Add a Page to Allow Users to Submit Their Favorite Color
 ●Create the Favorite Color Submission Form
@@ -43,11 +47,13 @@ Step 6:
 ●Pass Some Submitted Information to the Thanks Page
 ●Use the Submitted and Passed Information in the Thanks Page Message
 ●Review How Information is Passed From the Submit Page to the Thanks Page
+
 Step 7:
 ●Write the Favorite Color Submission to the Snowflake Database
 ●Add Link From Thanks Page Back to Homepage
 ●Add a Line Break Between the Thanks Message and the Homepage Link
 ●Notice that the Submitted Color is Not Being Added to the Homepage
+
 Step 8:
 ●Move the Snowflake Connection to a Separate File
 ●Format the Connection Definition in the New File
@@ -61,18 +67,23 @@ Step 9:
 ●Run the Code to See if the New Sequence Works Correctly
 ●Summarize the Color Data
 ●Update Various Page Properties to Match Changes to the Data
+
 Step 10:
 ●Add a Page Called "Charts"
 ●Output the Data to a Local CSV File
+
 Step 11:
 ●Add a Generic Vega-Lite Chart to the Charts Page
+
 Step 12:
 ●Output the Colors Data to a Local JSON File
 ●Use the JSON Color Data to Make a Custom Vega-Lite Chart
+
 Step 13:
 ●Use CSS and Some HTML Tags to Improve the Look of Your Website
 ●Edit Your Snowflake Query to Limit Rows in the Homepage Colors Table
 ●Replace the Generic Data in our Charts Page with our JSON Data
+
 Step 14:
 ●Clean up the Data Output Code -No More Local Files
 ●Send the Colors JSON Data into the Charts Page as a Variable
